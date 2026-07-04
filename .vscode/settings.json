@@ -3,6 +3,7 @@
         "htmlnode",
         "multiword",
         "pycache",
-        "textnode"
+        "textnode",
+        "textnodes"
     ]
 }
